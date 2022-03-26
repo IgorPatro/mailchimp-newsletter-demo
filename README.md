@@ -1,4 +1,4 @@
-<img alt="Mailchimp Logo" src="https://logos-world.net/wp-content/uploads/2021/02/Mailchimp-Logo-2018-present.png" width="220" />
+<img alt="Mailchimp Logo" src="https://mailchimp.com//email-design-guide/images/share-1a1fdf04.png" width="220" />
 
 # Mailchimp tryouts
 
