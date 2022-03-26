@@ -2,7 +2,7 @@
 
 # Mailchimp tryouts
 
-## Status: ````Canceled````
+## Status: ````Finished````
 
 ## Description
 Private Mailchimp tryouts to create a working newsletter
